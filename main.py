@@ -16,7 +16,7 @@ def draw():
          turtle.forward(square * (numberofsquare - 1))
          turtle.left(angle)
      for i in range (3):
-        turtle.forward(square * numberofsquare)
+        turtle.forward(square*numberofsquare)
         turtle.left(angle)
     
     
